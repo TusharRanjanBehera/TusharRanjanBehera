@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TusharRanjanBehera
-- 👀 I’m interested in buildinng compilers, mini games, websites
+- 👀 I’m interested in buildinng compilers, mini games, websites, automation scripts
 - 🌱 I’m currently learning DSA, AWS and docker along with HLD and LLD
 - 💞️ I’m looking to collaborate on making a compiler
 - 📫 How to reach me at trbtrew@gmail.com
